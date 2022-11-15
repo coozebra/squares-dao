@@ -1,0 +1,1 @@
+cc018fc97cc0ee22c57a02dad95796a7ff7dbba1dc67d280d1c1fa95156d287e  ./target/wasm32-unknown-unknown/release/squares.wasm
